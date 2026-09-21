@@ -1,0 +1,83 @@
+[Encounter]
+Patient Class: 
+MRN: 
+HAR: 
+Patient Type: 
+CSN: 
+Hospital Service: 
+Unit: 
+Admitting Provider: 
+Room Bed: 
+Adm Diagnosis: 
+Admit Source: 
+
+[Patient]
+Name: 
+Address: 
+City: 
+Race: 
+Ethnicity: 
+DOB: 
+Sex: 
+Language: 
+MS: 
+Religion: 
+Primary Phone: 
+
+[Guarantor]
+Guarantor: 
+Address: 
+Date of Birth: 
+Relation: 
+Sex: 
+Guarantor: 
+Home Phone: 
+Guarantor Employer: 
+Work Phone: 
+State: 
+
+[Emergency Contact]
+Contact Name: 
+Local Contact: 
+Relationship & Patient: 
+Primary Phone: 
+
+[Coverage 1]
+Insurance Company: 
+Payor Name: 
+EFF From - EFF To: 
+Group Number: 
+Policy: 
+Subscriber Name: 
+Subscriber ID: 
+Plan: 
+Claim Address: 
+Insurance Type: 
+Sub. DOB: 
+
+[Coverage 2]
+Insurance Company: 
+Payor Name: 
+EFF From - EFF To: 
+Group Number: 
+Policy: 
+Subscriber Name: 
+Subscriber ID: 
+Plan: 
+Claim Address: 
+Insurance Type: 
+Sub. DOB: 
+
+[Coverage 3]
+Insurance Company: 
+Payor Name: 
+EFF From - EFF To: 
+Group Number: 
+Policy: 
+Subscriber Name: 
+Subscriber ID: 
+Plan: 
+Claim Address: 
+Insurance Type: 
+Sub. DOB: 
+
