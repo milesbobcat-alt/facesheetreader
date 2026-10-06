@@ -1,0 +1,1 @@
+Text scanner optimized for Hackensack Meridian Health billing information. Working through work experience as an EMT to streamline the process of entering patient data. Future features include working with larger data sets and a potential frontend, as well as continually improving efficiency.
